@@ -1,0 +1,24 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- Project: Visualization tools of Algorand Blockchain Data                                            -- #
+# -- script: requirements.txt : text file with the required libraries for the project                    -- #
+# -- Author: IFFranciscoME - if.francisco.me@gmail.com                                                   -- #
+# -- license: GPL-3.0 License                                                                            -- #
+# -- Repository: https://github.com/IFFranciscoME/visual-block                                           -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+# Run the following in bash console:
+# $ pip instal -r requirements.txt
+
+# -- Generic
+pandas
+numpy
+
+# -- Date formatting
+dateutil
+
+# -- Visualization
+plotly
+
+# -- Algorand
+py-algorand-sdk
