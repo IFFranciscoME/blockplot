@@ -15,7 +15,7 @@ pandas
 numpy
 
 # -- Date formatting
-dateutil
+# dateutil
 
 # -- Visualization
 plotly

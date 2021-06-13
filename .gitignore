@@ -8,10 +8,10 @@
 .vscode/
 
 # ignore virtual env for development
-visual-block_dev_venv/
+visual_block_dev_venv/
 
 # ignore vscode workspace file
-visual-block_dev_workspace.code-workspace
+visual_block_dev_workspace.code-workspace
 
 # ----------- -------------- ----------- #
 
